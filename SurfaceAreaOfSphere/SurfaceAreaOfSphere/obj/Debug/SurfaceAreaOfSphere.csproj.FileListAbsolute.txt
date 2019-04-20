@@ -1,0 +1,7 @@
+C:\Users\Chris\Desktop\Game Design folder o' folders\C# programs\SurfaceAreaOfSphere\SurfaceAreaOfSphere\bin\Debug\SurfaceAreaOfSphere.exe.config
+C:\Users\Chris\Desktop\Game Design folder o' folders\C# programs\SurfaceAreaOfSphere\SurfaceAreaOfSphere\bin\Debug\SurfaceAreaOfSphere.exe
+C:\Users\Chris\Desktop\Game Design folder o' folders\C# programs\SurfaceAreaOfSphere\SurfaceAreaOfSphere\bin\Debug\SurfaceAreaOfSphere.pdb
+C:\Users\Chris\Desktop\Game Design folder o' folders\C# programs\SurfaceAreaOfSphere\SurfaceAreaOfSphere\obj\Debug\SurfaceAreaOfSphere.csprojAssemblyReference.cache
+C:\Users\Chris\Desktop\Game Design folder o' folders\C# programs\SurfaceAreaOfSphere\SurfaceAreaOfSphere\obj\Debug\SurfaceAreaOfSphere.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Desktop\Game Design folder o' folders\C# programs\SurfaceAreaOfSphere\SurfaceAreaOfSphere\obj\Debug\SurfaceAreaOfSphere.exe
+C:\Users\Chris\Desktop\Game Design folder o' folders\C# programs\SurfaceAreaOfSphere\SurfaceAreaOfSphere\obj\Debug\SurfaceAreaOfSphere.pdb
